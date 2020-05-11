@@ -1,0 +1,26 @@
+[
+  {"offset":  0,
+    "value": "{\"destinationAddress\": \"16077430362\",\"sourceAddress\": \"75183\",\"productId\": \"39\",\"messageId\": \"9020Z-0420M-2016K-29PVL\",\"acceptTs\": \"1587413789000\",\"userAgent\": \"v4-smpp-gateway\",\"eventType\": \"REPORTING\",\"type\": \"messageDequeued\",\"productSubType\": \"TRANSACTIONAL\",\"_firstEts\": \"1587413789878\",\"content\": \"Coach Outlet: This is BIG! Shop the season's best deals online now, starting with our Top 5 Steals: https://coachoutlet.attn.tv/l/pa7/VH2kK\",\"destinationTon\": \"1\",\"rawContent\": \"436f616368204f75746c65743a205468697320697320424947212053686f702074686520736561736f6e27732062657374206465616c73206f6e6c696e65206e6f772c207374617274696e672077697468206f757220546f70203520537465616c733a2068747470733a2f2f636f6163686f75746c65742e6174746e2e74762f6c2f7061372f5648326b4b\",\"accountId\": \"000-000-109-50581\",\"apiVersion\": \"VERSION_4_SMPP\",\"messageType\": \"MT\",\"dcs\": \"0\",\"contentEncoding\": \"NORMAL\",\"sourceTon\": \"3\",\"nodeId\": \"90\",\"programId\": \"75183\",\"remoteIpAddress\": \"208.78.112.27\",\"channel\": \"sms\"} ",
+    "topic": 1,
+    "timestamp" : 123,
+    "timestampType": 1,
+    "partition": 1,
+    "key" : "[70 64 63 2F 73 3]"
+  },
+  {"offset":  0,
+    "value": "{\"destinationAddress\": \"16077430362\",\"sourceAddress\": \"75183\",\"productId\": \"39\",\"messageId\": \"9020Z-0420M-2016K-29PVL\",\"acceptTs\": \"1587413789000\",\"userAgent\": \"v4-smpp-gateway\",\"eventType\": \"REPORTING\",\"type\": \"messageDequeued\",\"productSubType\": \"TRANSACTIONAL\",\"_firstEts\": \"1587413789878\",\"content\": \"Coach Outlet: This is BIG! Shop the season's best deals online now, starting with our Top 5 Steals: https://coachoutlet.attn.tv/l/pa7/VH2kK\",\"destinationTon\": \"1\",\"rawContent\": \"436f616368204f75746c65743a205468697320697320424947212053686f702074686520736561736f6e27732062657374206465616c73206f6e6c696e65206e6f772c207374617274696e672077697468206f757220546f70203520537465616c733a2068747470733a2f2f636f6163686f75746c65742e6174746e2e74762f6c2f7061372f5648326b4b\",\"accountId\": \"000-000-109-50581\",\"apiVersion\": \"VERSION_4_SMPP\",\"messageType\": \"MT\",\"dcs\": \"0\",\"contentEncoding\": \"NORMAL\",\"sourceTon\": \"3\",\"nodeId\": \"90\",\"programId\": \"75183\",\"remoteIpAddress\": \"208.78.112.27\",\"channel\": \"sms\"} ",
+    "topic": 1,
+    "timestamp" : 123,
+    "timestampType": 1,
+    "partition": 1,
+    "key" : "[70 64 63 2F 73 3]"
+  },
+  {"offset":  0,
+    "value": "{\"destinationAddress\": \"16077430362\",\"sourceAddress\": \"75183\",\"productId\": \"39\",\"messageId\": \"9020Z-0420M-2016K-29PVL\",\"acceptTs\": \"1587413789000\",\"userAgent\": \"v4-smpp-gateway\",\"eventType\": \"REPORTING\",\"type\": \"messageQueued\",\"productSubType\": \"TRANSACTIONAL\",\"_firstEts\": \"1587413789878\",\"content\": \"Coach Outlet: This is BIG! Shop the season's best deals online now, starting with our Top 5 Steals: https://coachoutlet.attn.tv/l/pa7/VH2kK\",\"destinationTon\": \"1\",\"rawContent\": \"436f616368204f75746c65743a205468697320697320424947212053686f702074686520736561736f6e27732062657374206465616c73206f6e6c696e65206e6f772c207374617274696e672077697468206f757220546f70203520537465616c733a2068747470733a2f2f636f6163686f75746c65742e6174746e2e74762f6c2f7061372f5648326b4b\",\"accountId\": \"000-000-109-50581\",\"apiVersion\": \"VERSION_4_SMPP\",\"messageType\": \"MT\",\"dcs\": \"0\",\"contentEncoding\": \"NORMAL\",\"sourceTon\": \"3\",\"nodeId\": \"90\",\"programId\": \"75183\",\"remoteIpAddress\": \"208.78.112.27\",\"channel\": \"sms\"} ",
+    "topic": 1,
+    "timestamp" : 123,
+    "timestampType": 1,
+    "partition": 1,
+    "key" : "[70 64 63 2F 73 3]"
+  }
+]
